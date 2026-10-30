@@ -1,0 +1,9 @@
+streamlit
+langchain-groq
+langchain_mcp_adapters
+langchain
+pandas
+plotly
+python-dotenv
+fastmcp
+aiosqlite
